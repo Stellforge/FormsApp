@@ -1,43 +1,20 @@
-# FormsApp - ASP.NET Core MVC Form Uygulama Projesi
+# FormsApp
 
-Bu proje, ASP.NET Core MVC üzerinde form işlemleriyle ilgili temel konuları uygulamalı olarak öğrenmek amacıyla geliştirilmiştir. Eğitim ve tekrar amaçlı hazırlanmış olan bu uygulama, form yapılarıyla ilgili aşağıdaki başlıkları kapsamaktadır:
+A basic ASP.NET Core MVC practice project focusing on:
 
-## 📚 Konu Başlıkları
+- What is a Form?
+- GET Form
+- POST Form
+- Form Tag Helpers
+- Model Binding
+- Form Validations
+- File Upload
+- Create Form
+- Edit Form
+- Delete Product
+- Batch Update
 
-- **Form Nedir?**
-- **GET Formu**
-- **POST Formu**
-- **Form Tag Helpers**
-- **Model Binding**
-- **Form Validations**
-- **File Upload**
-- **Create Formu**
-- **Edit Formu**
-- **Ürün Silme**
-- **Batch Update (Toplu Güncelleme)**
+This project was created to improve my ASP.NET Core MVC skills by practicing form handling and model interaction.
 
-## 💡 Amaç
-
-Bu projeyle birlikte, aşağıdaki becerilerin kazanılması hedeflenmektedir:
-
-- Formların nasıl oluşturulup işlendiğini anlama
-- HTTP GET ve POST metodlarının farklarını deneyimleme
-- `Model Binding` ile view-model arasında veri aktarımını kavrama
-- `DataAnnotations` ile model doğrulama işlemleri gerçekleştirme
-- Sunucuya dosya yükleme senaryolarını uygulama
-- CRUD (Create, Read, Update, Delete) işlemleri üzerinden form yönetimini pekiştirme
-- Basit batch işlemleri gerçekleştirme
-
-## 🛠️ Teknolojiler
-
-- ASP.NET Core MVC (.NET 6 / .NET 7)
-- Razor View Engine
-- Entity Framework Core (Opsiyonel)
-- Bootstrap (Opsiyonel stil düzenlemeleri için)
-
-## 🚀 Başlatmak İçin
-
-1. Projeyi klonlayın:
-   ```bash
-   git clone https://github.com/kullanici-adi/FormsApp.git
-   cd FormsApp
+> 📚 This project was built as part of the course: **"ASP.NET Core 8.0 ile Sıfırdan İleri Seviye Web Geliştirme"** by **Sadık Turan**.  
+> 🎯 Purpose: Educational and personal skill development.
